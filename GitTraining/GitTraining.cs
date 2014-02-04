@@ -6,8 +6,8 @@ namespace GitTraining
     {
        public static void Main(string[] args)
         {
-           // Git Training
-           Console.WriteLine("Welcome to Git!");
+           
+           Console.WriteLine("Welcome GitHub");
            
            Console.WriteLine("Enter a number: ");
            var num1 = Convert.ToInt32(Console.ReadLine());
