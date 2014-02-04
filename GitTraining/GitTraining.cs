@@ -12,6 +12,7 @@ namespace GitTraining
         {
            // Git Training
            Console.WriteLine("Welcome to Git!");
+           Console.WriteLine("Git is fun and easy.");
            Console.ReadLine();
         }
     }
