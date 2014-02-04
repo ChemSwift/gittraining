@@ -13,10 +13,10 @@ namespace GitTraining
            var num1 = Convert.ToInt32(Console.ReadLine());
            
            Console.WriteLine("Enter a second number: ");
-           var num2 = Convert.ToInt32(Console.ReadLine());
+           var numTwo = Convert.ToInt32(Console.ReadLine());
 
-           int sum = num1 + num2;
-           Console.WriteLine("The sum of {0} and {1} is {2}", num1, num2, sum);
+           int sum = num1 + numTwo;
+           Console.WriteLine("The sum of {0} and {1} is {2}", num1, numTwo, sum);
            Console.ReadLine();
         }
     }
