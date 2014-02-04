@@ -14,6 +14,7 @@ namespace GitTraining
            
            Console.WriteLine("Enter a second number: ");
            var numTwo = Convert.ToInt32(Console.ReadLine());
+           Console.WriteLine("Changing file.")
 
            var sum = num1 + numTwo;
            Console.WriteLine("The sum of {0} and {1} is {2}", num1, numTwo, sum);
